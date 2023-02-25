@@ -48,3 +48,6 @@ end
 
 # Rubocop for best practices
 gem 'rubocop', '>= 1.0', '< 2.0'
+
+# To allow CORS requests
+gem 'rack-cors'
